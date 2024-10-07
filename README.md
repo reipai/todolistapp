@@ -15,13 +15,6 @@ Java-based android to do list application helps users to record tasks and due da
 ### Screen Record :
 <table align="center">
  <tr>
-  <td><img src="" alt="Application Flow" style="width:400px;height:800px;"></td>
- </tr>
-</table>
-
-### Screen Record :
-<table align="center">
- <tr>
   <td><img src="https://github.com/reipai/todolistapp/blob/master/asset/screen_record.gif" alt="Home Page" style="width:400px;height:800px;"></td>
 </tr>
 </table>
